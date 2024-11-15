@@ -1,8 +1,8 @@
-# MolGenEval: A Benchmark for Comprehensive Evaluation of Molecular Generation Models in De Novo Drug Design
+# MoGE: A Benchmark for Comprehensive Evaluation of Molecular Generation Models in De Novo Drug Design
 ## Overview
 
 De novo molecular design is a computational method that constructs new molecules from scratch, breaking the limitations of traditional virtual screening and enabling the exploration of a broader chemical space for drugs. However, evaluating drug molecule generation models is challenging due to the lack of unified standards, which limits the development of this field. 
-In this work, MolGenEval introduces four new evaluation metrics—Time, Available Percentage, Percentage of Active Fragments, and CPMV—based on previous research. These metrics establish a more comprehensive benchmarking system for quantifying the quality of generated molecules and assessing the performance of molecular generation models across five different applications.
+In this work, MolGenEval introduces three new evaluation metrics—Available Percentage, Percentage of Active Fragments, and CPMV—based on previous research. These metrics establish a more comprehensive benchmarking system for quantifying the quality of generated molecules and assessing the performance of molecular generation models across five different applications.
 
 ## Dependencies
 
